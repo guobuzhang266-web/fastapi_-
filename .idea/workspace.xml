@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="440f991f-77ba-4d3e-a865-dcd5569d7bb2" name="更改" comment="" />
+    <list default="true" id="440f991f-77ba-4d3e-a865-dcd5569d7bb2" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/routers/users.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -24,28 +30,33 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3Lueop4gpK3DvjCfEihXmb7wMH4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.users.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/program/python.code/fastapi/crud&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main01.executor": "Run",
+    "Python.users.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/program/python.code/fastapi/schemas",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\program\python.code\fastapi\crud" />
-      <recent name="D:\program\python.code\fastapi\models" />
-      <recent name="D:\program\python.code\fastapi\routers" />
       <recent name="D:\program\python.code\fastapi\schemas" />
-      <recent name="D:\program\python.code\fastapi\image" />
+      <recent name="D:\program\python.code\fastapi\crud" />
+      <recent name="D:\program\python.code\fastapi\config" />
+      <recent name="D:\program\python.code\fastapi\cache" />
+      <recent name="D:\program\python.code\fastapi\models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\program\python.code\fastapi\z_练习" />
